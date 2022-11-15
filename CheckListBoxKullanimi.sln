@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckListBoxKullanimi", "CheckListBoxKullanimi\CheckListBoxKullanimi.csproj", "{E921CE4F-943D-46F5-92D9-95C10A8C36CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E921CE4F-943D-46F5-92D9-95C10A8C36CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E921CE4F-943D-46F5-92D9-95C10A8C36CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E921CE4F-943D-46F5-92D9-95C10A8C36CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E921CE4F-943D-46F5-92D9-95C10A8C36CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {924145E9-54E7-47C6-85BB-C173D436382E}
+	EndGlobalSection
+EndGlobal
